@@ -146,6 +146,9 @@ a:hover{
     color: white;
     display: block;
 }
+    #Contact{
+    display:none;
+    }
 
   
 }
